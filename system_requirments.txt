@@ -1,0 +1,5 @@
+# System dependencies for AutoReconX
+
+To install on Debian-based systems:
+sudo apt update && sudo apt install nmap nbtscan-unixwiz
+
